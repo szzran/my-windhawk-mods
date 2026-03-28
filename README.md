@@ -12,4 +12,6 @@ This repository is used for development. Stable mods may eventually be submitted
 ### Edge Window Docker
 Docks active window to nearest screen edges, auto-hide with slide animation.
 
-![Demonstration](https://i.imgur.com/HCb8PEn.gif)
+https://github.com/user-attachments/assets/5616a7cf-bdc3-42af-ae5e-7d8a468c01e3
+
+<sub><i>Demonstration of Edge Window Docker.</i></sub>
